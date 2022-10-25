@@ -1,0 +1,49 @@
+.menulink1{
+  margin-left: 530px;
+}
+
+h2{
+  font-size: 1.7vw;
+  text-align: center;
+  margin-top: 350px;
+}
+
+html{
+  font-family:monospace;
+}
+
+h1{
+  padding-bottom: 40px;
+  background-color:
+  font-family: monospace;
+  font-size: 3vw;
+  text-align: center;
+  padding-top: 35px;
+}
+
+html{
+  background-image: url(./Images for HTML coding./lego.jpg)
+}
+
+span{
+  background-color:#d40000;
+}
+
+footer{
+  margin:15px;
+  padding:10px;
+  background-color: limegreen;
+}
+
+p{
+  color:#ffff00;
+  font-size: 1.5vw;
+}
+
+#h1{
+  padding:5px;
+}
+
+a{
+  color:blue;
+}
